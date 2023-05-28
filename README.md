@@ -1,1 +1,1 @@
-# p-stellar
+# ST-82-Boilerplate
